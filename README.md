@@ -1,4 +1,4 @@
 jbutzSnippits
 =============
 
-My collection of snippits of code that can be handy
+My collection of code snippits that can be handy
